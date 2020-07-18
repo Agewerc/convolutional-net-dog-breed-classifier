@@ -51,5 +51,5 @@ We achieve an accuracy of 86% using a pre-trained model and 22% with a model bui
 
 A visual example of the success of the application.
 
-![Imgur](https://i.imgur.com/j4TsNHQ.png)
+![Imgur](https://i.imgur.com/ieSljNk.png)
 
