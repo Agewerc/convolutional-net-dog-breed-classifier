@@ -26,6 +26,7 @@ There are 8351 total dog images. About 70 pictures of each of the 130 dog breeds
 
 In a nutshell, this the CNN developed from scratch. 
 
+<samp>
 Net(
 
   (conv1): Conv2d(3, 16, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
@@ -47,6 +48,7 @@ Net(
   (fc2): Linear(in_features=512, out_features=133, bias=True)
 
 )
+</samp>
 
 ## Results
 We achieve an accuracy of 86% using a pre-trained model and 22% with a model built enterily from scratch. 
